@@ -16,7 +16,7 @@ In note 1, we learn about the data analysis process. Quick refresher, they are *
 
 # 1.Follow the data life cycle
 ## 1.1 Phases of the data life cycle
-If we carefully check, everything has a life cycle. The most common example is the life cycle of a butterfly. ![Butter Flies Life Cycle](Cycle.jpeg)
+If we carefully check, everything has a life cycle. The most common example is the life cycle of a butterfly. ![Butter Flies Life Cycle](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%203/image/Cycle.jpeg)
 
 Data also have their life cycle. The data life cycle consists of six phases.
 1. Plan
@@ -26,7 +26,7 @@ Data also have their life cycle. The data life cycle consists of six phases.
 5. Archive 
 6. Destroy 
 
-![](Data_Life_Cycle.jpg)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%203/image/Data_Life_Cycle.jpg)
 
 **Plan**: Planning happen before the project even starts. In this phase business will decides 
 * What kind of data it needs in the project?
@@ -121,7 +121,7 @@ Second, You need to understand who are the stakeholders. The stakeholders' are t
 **Act**: Now you know the solution you will act upon to meet the end goal.
 
 # 2.2 Quick Recap 
-![](Data_Analysis_Process.PNG)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%203/image/Data_Analysis_Process.PNG)
 
 Source : [Coursera Foundation of Data](https://d3c33hcgiwev3.cloudfront.net/VZICt2r9RdySArdq_SXcoA_7c30b52503684452afa200056a632de9_The-data-analysis-process.pdf?Expires=1625270400&Signature=R9HPHRLcf5X9BKGaevRvPsBP8YfQ4z23URXu2XO5sWqiGGdldBD66cApwYK2T8iVCzBoTLm7jRVfirfs7KgfsZWHvbk4zNcRUTkskXnh1XfBMGZjNcC4q0NPqbiW1so4JmQ2xWYoFvo5Ngm34S20bLSxdRvfBCZwVySqU~jIeoE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
@@ -201,66 +201,4 @@ While the data analysis process drives our projects and helps us reach our busin
 Each phase happens before starting the project and these phases define the problem.Both phases involve planning, and asking questions.
 In the planning phase, businesses decide who is going to manage the data throughout the project plus what kind of data they need, but in the ask phase businesses don't talk about data rather they focus on the problem they are facing and how to reach the goal state.
 
- They are different in that the ‘Ask’ phase in the data analysis process focuses on “big picture” strategic thinking about business goals, while the “Plan” phase focuses on “nuts and bolts” of the project, like what data you have access to, what data you need, and where you’re going to get it. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+They are different in that the ‘Ask’ phase in the data analysis process focuses on “big picture” strategic thinking about business goals, while the “Plan” phase focuses on “nuts and bolts” of the project, like what data you have access to, what data you need, and where you’re going to get it. 
