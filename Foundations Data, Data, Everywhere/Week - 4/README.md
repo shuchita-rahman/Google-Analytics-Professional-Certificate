@@ -16,7 +16,7 @@ We already know about the data life cycle, and process data need to go through t
 
 ---------------------------------------------------------
 
-![PNG](Data.PNG)
+![PNG](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/Data.PNG)
 ---------------------------------------------------------
 
 
@@ -27,13 +27,10 @@ We already know about the data life cycle, and process data need to go through t
 
 ---------------------------------------------------------
 
-![](Data.PNG)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/sort.png)
 ---------------------------------------------------------
 
-![](sort.png)
----------------------------------------------------------
-
-![](age_Sort.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/age_Sort.png)
 ---------------------------------------------------------
 
 
@@ -44,15 +41,15 @@ We already know about the data life cycle, and process data need to go through t
 ---------------------------------------------------------
 
 
-![](averageFormula.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/averageFormula.png)
 
 ---------------------------------------------------------
 
-![](ave.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/ave.png)
 
 ---------------------------------------------------------
 
-![](ans.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/ans.png)
 
 ---------------------------------------------------------
 
@@ -65,8 +62,7 @@ In the spirit of lifelong learning, it is good to have resources to turn to when
 
 Learn even more ways to move, store, and analyze your data with the Google Sheets Training and Help page, located in the Google Workspace Learning Center.This hub offers an expanded list of tips, from beginner to advanced, along with cheat sheets, templates, guides, and tutorials. 
 
-[Google Sheets Cheat Sheet
-](https://support.google.com/a/users/answer/9300022)
+[Google Sheets Cheat Sheet](https://support.google.com/a/users/answer/9300022)
 
 Want to learn more about Google Sheets? This online help article features a short list of the most important functions you will use, including rows, columns, cells, and functions. 
 
@@ -86,7 +82,7 @@ Example
 
 To communicate with database SQL use **Query**. Query structure is universal. So no matter which database you use your query would be similar.
 
-![](queryStucture.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/queryStucture.png)
 Source : [https://www.coursera.org/learn/foundations-data/lecture/dPBUG/sql-in-action](https://www.coursera.org/learn/foundations-data/lecture/dPBUG/sql-in-action)
 
 ## 2.2 More about SQL 
@@ -103,7 +99,7 @@ A query is basically a request for data or information from a database. For exam
 *  **FROM** to choose the tables where the columns you want are located.
 *  **WHERE** to filter for certain information.
 
-![](SQL_Basic.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/SQL_Basic.png)
 
 **Tip 1:** You can write your SQL queries all in lowercase and don’t have to worry about proper spacing between words. With that said, however, using capitalization and spacing can help you read the information more easily. Keep your queries neat, and they will be easier to review or troubleshoot if you need to check them later on.
 
@@ -123,18 +119,18 @@ Finally, you will notice that we have shown the SQL statement with a semicolon a
 
 **Tip 2:** Some tables aren’t designed with descriptive enough naming conventions. In our previous example, field1 was the column for a customer’s last name, but you wouldn’t know it by the name. A better name would have been something like last_name. In these cases, you can place comments alongside your SQL statements to help you remember what the name represents. Comments are text placed between certain characters, /* and */, or after two dashes (--) as shown below. 
 
-![](d.png)!
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/d.png)
 
 
 Tip 3: You can also make it easier on yourself by assigning a new name or alias to the column or table names to make them easier to work with (and avoid the need for comments). This is done with a SQL AS clause. In the example below, you are changing field1 to last_name and table to customers for the duration of the query only. It doesn’t change the names in the actual table used in the database.
 
 
 
-![](table.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/table.png)
 
 Image of a screen shot with alias examples: field1 AS last_name and table AS customers. Each alias has a comment with --.
 
-![](a.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/a.png)
 
 **Putting SQL to work**
 Imagine you are a data analyst for a small business and your manager asks you for some employee data. You decide to write a query with SQL to get what you need from the database. 
@@ -146,10 +142,10 @@ Now, you can get more specific about the data you want from the Employee table. 
 
 Here, you use:
 
-![](quer.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/quer.png)
 
 
-![](table_uery.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere/Week%20-%204/image/table_uery.png)
 
 # 3. Data Visualization
 ## 3.1 Planning a data visualization
