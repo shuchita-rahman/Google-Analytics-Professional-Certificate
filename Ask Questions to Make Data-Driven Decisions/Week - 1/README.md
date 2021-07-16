@@ -30,7 +30,7 @@ Then write 2-3 sentences (40-60 words) reflecting on the problem-solving process
 * When you come across a problem and you aren’t sure of the answer or solution, what do you do? 
 * How do you identify new and interesting problems to begin with? Is there a process you use to identify problems you want to solve? How do you feel about data?
 
-Here : [Learning Log]()
+Here : [Learning Log](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Week%20-%201/Learning-Log-Template-Consider-what-data-means-to-you.docx)
 
 # 2. Take Action with Data
 ## 2.1 Data in Action
@@ -145,7 +145,7 @@ Questions to ask yourself in this step:
 
 Data analytics is so much more than just plugging information into a platform to find insights. It is about solving problems. And when getting to the root of these problems and finding practical solutions, there are lots of opportunities for creative thinking. No matter the problem, the first and most important step is understanding what types of problem you are dealing with. There is six types of problem a data analyst will face.
 
-![](problem_type.png)!
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Week%20-%201/image/problem_type.png)!
 
 Source: [Six Problem Types](https://www.coursera.org/learn/ask-questions-make-decisions/supplement/IggXC/six-problem-types)
 
@@ -187,7 +187,7 @@ This type of question isn't effective to find a solution. So, to become a data a
 
 Effective questions follow the SMART methodology.
 
-![](SMART.png)!
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Week%20-%201/image/SMART.png)!
 
 Source : [https://www.coursera.org/learn/ask-questions-make-decisions/supplement/nULlj/more-about-smart-questions](https://www.coursera.org/learn/ask-questions-make-decisions/supplement/nULlj/more-about-smart-questions)
 
