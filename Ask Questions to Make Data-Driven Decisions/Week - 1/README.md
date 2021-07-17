@@ -348,19 +348,19 @@ Before you begin your conversation about data, consider each of the above steps.
 * What insights did you discover during your conversation? 
 * How did the SMART framework help you arrive at your conclusions?
 
-**Solutions**
+#### Solutions
 
 I talked with a person who always keep his diabetes in control. I wanted to know how he does that.
 
 1. SMART question I have asked : 
    
    * **Specific:**  What type of data do you use before taking your insulin shot?
-   *    **Measurable:** Does your insulin intake is  correlated with your diabetes?
-   *    **Action:** Do you thare your data with your doctor?
-   *    **Relevant:** Do you increase/decrease your walking time after seeing the data?
+   *    **Measurable:** How much insulin you take every day? Does your insulin intake is  correlated with your diabetes?
+   *    **Action:** How many times you consult with your a doctor in a year? Do you increase/decrease your walking time after seeing the data?
    * **Time:** Can you describe how this data help your doctor to give you proper treatment?
    
-2. I have learned that he check his glucose level every week before breakfast and after breakfast. That's how he decides how much insulin he is going to take. He walked every day for one hour. Last he consults with his doctor every 6 with this data. 
+2. I have learned that he check his glucose level every week before breakfast and after breakfast
+3. That's how he decides how much insulin he is going to take. He walked every day for one hour. Last he consults with his doctor every 6 with this data. 
 
 3. SMART methodology helped me stay focus on the solution one must take to control their diabetes.
 
