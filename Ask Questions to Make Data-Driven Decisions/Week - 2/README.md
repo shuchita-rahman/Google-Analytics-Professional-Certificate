@@ -37,7 +37,7 @@ But as it turns out, New Coke was a massive flop and  the company ended up losin
 The main intention of data visualization is to find out a summary of the data. Our data summer will be different depending on the data type. Suppose a store has customer information database where they these information about their customers *Name, Age, Sex, Address, Weekly_Visit,Salary, Children, Review*, etc.  Here we easily can see that data all is not numeric. Here **Age** is a numerical value but **Sex**, **Address** is not numerical value. If we want to know the **average age** of the customer we can easily find out by adding the Age column then dividing it with number of customers.We can’t do the same thing for **Sex**, or **Address**. So for different types of data we need to come up with different approach. 
 There are **two types** of data/variables:
 
-![](variableType.png)  
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Week%20-%202/image/variableType.png)  
 
 ### Quantitative Data:   
 >**Data which deal with number or which have objective and specific measures is called quantitative data.**
@@ -97,7 +97,7 @@ Solution: **The ice cream shop change their  weekly order to make sure it has en
 
 # [ 1.4 Qualitative and Quantitative data in Business](https://www.coursera.org/learn/ask-questions-make-decisions/supplement/q79uq/qualitative-and-quantitative-data-in-business)
 
-![](Qualitative_Quatitative.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Week%20-%202/image/Qualitative_Quatitative.png)
 Source : [https://www.coursera.org/learn/ask-questions-make-decisions/supplement/q79uq/qualitative-and-quantitative-data-in-business](https://www.coursera.org/learn/ask-questions-make-decisions/supplement/q79uq/qualitative-and-quantitative-data-in-business)
 
 # 1.5 Learning Log: Ask SMART questions about real-life data sources
@@ -114,7 +114,7 @@ Before you begin your new entry, take a moment to locate and read the [Learning 
 
 Determining the data that you don’t have, but need in order to answer the questions
 
-#### [Solution]()
+#### [Solution](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Week%20-%202/1.Ask-SMART-questions-about-real-life-data-sources.docx)
 # 2. Follow the Evidence
 ## 2.1 Sharing the Data
 You have the analysis of your data. Now you want to share it with the Stakeholders. Depending on the Stakeholders you will display the analysis so that, they can easily understand it. Here are two ways to show your analysis. 
@@ -131,7 +131,7 @@ You have the analysis of your data. Now you want to share it with the Stakeholde
 
 Example: Here is a covid-19 dataset. You can see their are lot of data and we don't know where to look. To share the death report we can use pivot table.
 
-![](covid.png)
+![](https://github.com/shuchita-rahman/Google-Analytics-Professional-Certificate/blob/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/Week%20-%202/image/covid.png)
 
 ### Dashboard
 | Pros                       | Cons                   |
